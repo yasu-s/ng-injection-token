@@ -1,2 +1,4 @@
-# ng-injection-token
-Angular InjectionToken Sample
+# 概要
+
+* AngularのInjectionToken使用のサンプルです。
+
